@@ -107,9 +107,9 @@ Evaluation
 ![Global Feature Importance](img/graph_2.png)
 <sub><sup>**Source:** [Assignment 1](Assignment 1 _ Group 2/A_01(code).ipynb)</sup></sub>
 
-![Local Feature Importance] (img/graph_2.1.png)
+![Local Feature Importance](img/graph_2.1.png)
 
-![Partial Dependence] (img/graph_2.2..png)
+![Partial Dependence](img/graph_2.2..png)
 
 **Assingment 3**<p>
 
