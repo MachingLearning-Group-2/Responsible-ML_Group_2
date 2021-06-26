@@ -99,7 +99,7 @@ Evaluation
 
 * Provide at least one plot or table from each weekly assignment for a total of at least six plots, that must include the global variable importance and partial dependence of your group's best remediated model.<p>
 **Assingment 1**
-![image] (https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/5f472b4ada06d67ca15725e2dcda945219aabaaa/img/Graph_1.png)
+![Assignment_! image](img/Graph_1.png)
 	
 **Assingment 2**<p>
 Global Feature Importance<p>
