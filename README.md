@@ -127,9 +127,10 @@ Evaluation
 ![Stress Testing](img/graph_5.png)
 
 **Address other alternative models considered**
+	
   * Elastic Net
+	
 ![Evaluation Metrics of Elastic Net Model](img/graph__6.png)
-
 
 ![Variable Importances of Elastic Net Model](img/graph_7.png)
 
