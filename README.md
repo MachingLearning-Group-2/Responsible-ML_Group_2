@@ -67,7 +67,7 @@ Last updated: June 2021
 *  **Target columns:** ['high_priced']
 *  **Model Type:** Explainable Boosting Machine
 *  **Software Implemented:** Python Virtual Environment
-*  **Modeling software versions:**  we need to insert our link. currently using professor’s text file link [View software and package versions](https://github.com/jphall663/GWU_rml/blob/master/assignments/requirements.txt)
+*  **Modeling software versions:**  [View software and package versions](https://github.com/jphall663/GWU_rml/blob/master/assignments/requirements.txt)
 *  **Parameter settings:** {'max_bins': 512,
               'max_interaction_bins': 16,
               'interactions': 10,
