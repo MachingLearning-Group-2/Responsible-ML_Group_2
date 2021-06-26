@@ -17,7 +17,8 @@ Last updated: June 2021
 
 ***
 ## Training data
-* [Source of training data] (https://github.com/jphall663/GWU_rml/blob/master/assignments/data/hmda_train_preprocessed.zip)
+
+[Source of training data] (https://github.com/jphall663/GWU_rml/blob/master/assignments/data/hmda_train_preprocessed.zip)
 
 * **Dividing training dataset:** 70% is training part and 30% is validation part
 
@@ -48,7 +49,7 @@ Last updated: June 2021
 
 ***
 ## Evaluation data
-* [Source of test data] (https://github.com/jphall663/GWU_rml/blob/master/assignments/data/hmda_test_preprocessed.zip)
+[Source of test data] (https://github.com/jphall663/GWU_rml/blob/master/assignments/data/hmda_test_preprocessed.zip)
 
 * **Number of rows in test dataset:** Test data contains 19831 rows and 22 columns
 
