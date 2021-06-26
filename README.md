@@ -126,19 +126,15 @@ Evaluation
 
 ![Stress Testing](img/graph_5.png)
 
-* **Address other alternative models considered**
-Elastic Net
-**Evaluation Metrics of Elastic Net Model**
+**Address other alternative models considered**
+  * Elastic Net
+![Evaluation Metrics of Elastic Net Model](img/graph__6.png)
 
 
-**Variable Importances of Elastic Net Model**
+![Variable Importances of Elastic Net Model](img/graph_7.png)
 
 
-
-Monotonic XGBoost
-**AUC: 0.7928**
-
-
+  * Monotonic XGBoost: AUC: 0.7928
 
 ***
 ## Ethical considerations
