@@ -92,7 +92,10 @@ Last updated: June 2021
 * **Values for training, validation and evaluvation data:**
 	* Training AUC: 0.7917
 	* Validation AUC: 0.7953
-	* Evaluation: 
+	* Evaluation results submitted as group2:* 
+	
+	
+	<sub><sup>**Source:** [Assignment 1](https://nbviewer.jupyter.org/github/jphall663/GWU_rml/blob/master/assignments/eval.ipynb)</sup></sub>
 	
 
 
