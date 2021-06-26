@@ -18,7 +18,7 @@ Last updated: June 2021
 ***
 ## Training data
 
-[Source of training data] (https://github.com/jphall663/GWU_rml/blob/master/assignments/data/hmda_train_preprocessed.zip)
+*  **Training data:** [Source of training data] (https://github.com/jphall663/GWU_rml/blob/master/assignments/data/hmda_train_preprocessed.zip)
 
 * **Dividing training dataset:** 70% is training part and 30% is validation part
 
