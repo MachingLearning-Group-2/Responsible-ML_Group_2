@@ -146,11 +146,11 @@ Monotonic XGBoost
 ***
 ## Ethical considerations
 * **Potential negative impacts:**
-* Models are based on trained data with an adequate accuracy rate but will still incorrectly mark a high-priced loan for a proportion of the population.   
-* Although model was remediated to reduce bias, there is still the potential racial discrimination in the model where Black applicants may have more of a chance in receiving a high-priced loan compared to White applicants. 
+  * Models are based on trained data with an adequate accuracy rate but will still incorrectly mark a high-priced loan for a proportion of the population.   
+  * Although model was remediated to reduce bias, there is still the potential racial discrimination in the model where Black applicants may have more of a chance in receiving a high-priced loan compared to White applicants. 
 * **Potential uncertainties:** 
-* Software and package versions could cause a problem in reproducing the same results.  Although the team has been using the same application versions and environments, we still came to subtle differences in results that were unexplainable. 
-* Due to the above uncertainty, models deployed on different machines may come to rare difference in determining applicants’ loan approval.  
+  * Software and package versions could cause a problem in reproducing the same results.  Although the team has been using the same application versions and environments, we still came to subtle differences in results that were unexplainable. 
+  * Due to the above uncertainty, models deployed on different machines may come to rare difference in determining applicants’ loan approval.  
 * **Challenges during training:** The model performs poorly when there are noticeable outliers.  The model was unable to provide an accurate prediction of the high-priced loans.  Unexpected global recessions will also cause the accuracy of models to drop. 
 	
 
