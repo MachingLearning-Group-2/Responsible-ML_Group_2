@@ -113,18 +113,17 @@ Evaluation
 
 **Assingment 3**<p>
 
-![Assignment_3 image] (img/graph_3.png)	
+![Assignment_3 image](img/graph_3.png)	
 
-**Assingment 4**<p>
-A white-hat model extraction attack: Stolen Model<p>
-<p>
+**Assingment 4**
+	
+![A white-hat model extraction attack: Stolen Model](img/graph_4.png)
 
-Adversarial examples seeds rows of Stolen Model<p>
-<p>
+![Adversarial examples seeds rows of Stolen Model](img/graph_4.1.png)
 
-**Assignment 5**<p>
+**Assignment 5**
+
 Stress Testing<p>
-<p>
 
 
 
