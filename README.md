@@ -97,7 +97,8 @@ Validation AUC: 0.8259
 Evaluation
 
 
-* Provide at least one plot or table from each weekly assignment for a total of at least six plots, that must include the global variable importance and partial dependence of your group's best remediated model.<p>
+* Provide at least one plot or table from each weekly assignment for a total of at least six plots, that must include the global variable importance and partial dependence of your group's best remediated model.
+	
 **Assingment 1**
 ![Assignment_1 image](img/Graph_1.png)
 <sub><sup>**Source:** [Assignment 1](Assignment 1 _ Group 2/A_01(code).ipynb)</sup></sub>
@@ -123,11 +124,9 @@ Evaluation
 
 **Assignment 5**
 
-Stress Testing<p>
+![Stress Testing](img/graph_5.png)
 
-
-
-* Address other alternative models considered<p>
+* **Address other alternative models considered**
 Elastic Net
 **Evaluation Metrics of Elastic Net Model**
 
