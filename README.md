@@ -11,8 +11,8 @@ Last updated: June 2021
 
 * **Model design:** Our group best model EBM designed to fit with random grid search, and then we need to avoid the discrimination probelm when we find the best cutoff point for Balck vs White AIR. Therefore, it is designed to lessen the discrimination probelm. 
 
-* ** Intended use:**   The intended user for our group best remediated model would be student, professor, and researchers who need a specific sample to make certain conclusions.  
-(Ask professor) 
+* ** Intended use:**   The intended user for our group best remediated model would be student, professor, researchers and other data scientists who need a specific sample to make certain conclusions.  
+
 * **Additional use of model:** This model needs more data  in order to make more accuracy. So, it is used only for educational purposes not intended to evaluate the real-world problem.  
 
 ***
