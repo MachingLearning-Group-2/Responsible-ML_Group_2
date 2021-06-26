@@ -85,18 +85,15 @@ Last updated: June 2021
 
 
 ***
+
 ## Quantitative analysis
-* State the metrics used to evaluate your group's best remediated model<p>
-Our group decided to use AUC to evaluate our model. After we run through the stress testing, residual analysis, and remove the outlier. we find the best AUC would be 0.7953. 
+* **Metrics to evaluate model:** Our group decided to use AUC to evaluate our model. After we run through the stress testing, residual analysis, and remove the outlier. we find the best AUC would be 0.7953. 
 
-* State the values of the metrics for training, validation, and evaluation (or test) data { eval-
-uation (or test) metrics come from the most recent class full evaluation results, link under
-Assignment 1.
-
-Training
-Validation AUC: 0.8259
-
-Evaluation
+* **Values for training, validation and evaluvation data:**
+	* Training AUC: 0.7917
+	* Validation AUC: 0.7953
+	* Evaluation: 
+	
 
 
 * Provide at least one plot or table from each weekly assignment for a total of at least six plots, that must include the global variable importance and partial dependence of your group's best remediated model.
