@@ -99,23 +99,19 @@ Evaluation
 
 * Provide at least one plot or table from each weekly assignment for a total of at least six plots, that must include the global variable importance and partial dependence of your group's best remediated model.<p>
 **Assingment 1**
-![Assignment_! image](img/Graph_1.png)
-<sub><sup>**Source:** [Assignment 1]
-(Assignment 1 _ Group 2/A_01(code).ipynb)</sup></sub>
+![Assignment_1 image](img/Graph_1.png)
+<sub><sup>**Source:** [Assignment 1](Assignment 1 _ Group 2/A_01(code).ipynb)</sup></sub>
 	
-**Assingment 2**<p>
-Global Feature Importance<p>
-<p>
-Local Feature Importance<p>
-<p>
+**Assingment 2**
+![Global Feature Importance](img/graph_2.png)
 
-Partial Dependence <p>
+![Local Feature Importance] (img/graph_2.1.png)
 
-
-
+![Partial Dependence] (img/graph_2.2..png)
 
 **Assingment 3**<p>
 
+![Assignment_3 image] (img/graph_3.png)	
 
 **Assingment 4**<p>
 A white-hat model extraction attack: Stolen Model<p>
