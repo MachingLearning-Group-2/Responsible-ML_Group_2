@@ -13,7 +13,7 @@ Last updated: June 2021
 
 * **Intended use:**   The intended user for our group best remediated model would be student, professor, researchers and other data scientists who need a specific sample to make certain conclusions.  
 
-* **Additional use of model:** This model needs more data  in order to make more accuracy. So, it is used only for educational purposes not intended to evaluate the real-world problem.  
+* **Additional use of model:** This model can't be used in other situations. The housing market is very different after covid pandemic vs. before.
 
 ***
 ## Training data
@@ -32,18 +32,18 @@ Last updated: June 2021
   * debt_to_income_ratio_missing: Binary numeric input, missing marker (1) for debt to income ratio std.
   
   * income_std: Numeric input, standardized income for mortgage applicants.
+  
   * loan_amount_std: Numeric input, standardized amount of the mortgage for applicants.
-
 
   * intro_rate_period_std: Numeric input, standardized introductory rate period for mortgage applicants.
  						
   * loan_to_value_ratio_std: Numeric input, ratio of the mortgage size to the value of the property for mortgage applicants.
  		
- * no_intro_rate_period_std: Binary numeric input, whether or not a mortgage does not include an introductory rate period.
+  * no_intro_rate_period_std: Binary numeric input, whether or not a mortgage does not include an introductory rate period.
  			
- * property value std: Numeric input, value of the mortgaged property.
+  * property value std: Numeric input, value of the mortgaged property.
  					
- * term 360: Binary numeric input, whether the mortgage is a standard 360 month mortgage (1) or a different type of mortgage (0). 
+  * term 360: Binary numeric input, whether the mortgage is a standard 360 month mortgage (1) or a different type of mortgage (0). 
  						
 
 ***
