@@ -87,7 +87,7 @@ Last updated: June 2021
 ***
 
 ## Quantitative analysis
-* **Metrics to evaluate model:** Our group decided to use AUC to evaluate our model. After we run through the stress testing, residual analysis, and remove the outlier. we find the best AUC would be 0.7953. 
+* **Metrics to evaluate model:** Our group decided to use AUC to evaluate our model. After we ran the stress testing, residual analysis, and removed the outliers, we found the best AUC to be 0.7953.
 
 * **Values for training, validation and evaluation data:**
 	* Training AUC: 0.7917
@@ -121,6 +121,7 @@ Last updated: June 2021
 
 ![Partial Dependence Plot for all models evaluated](img/graph_2.2..png)
 	<sub><sup>**Source:** [Assignment 2](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cfb1ed9c4e408b36aacca309351c40c1c15fa63b/Assignment%202/A_02.ipynb)</sup></sub>
+
 
    **Assignment 3**
 
