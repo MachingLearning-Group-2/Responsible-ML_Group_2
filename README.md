@@ -9,11 +9,11 @@ Last updated: June 2021
 ## Intended use
 * **Business value of model:**  The purpose of our model is to decide whether to lend money or not to a person who has a higher priced mortgage rate. Our model takes into consideration adverse impacts due to racial differences. As a result, our model provides a more fair lending experience to applicants.
 
-* **Model design:** Our group best model EBM designed to fit with random grid search, and then we need to avoid the discrimination probelm when we find the best cutoff point for Balck vs White AIR. Therefore, it is designed to lessen the discrimination probelm. 
+* **Model design:** Our group best model EBM designed to fit with random grid search, and then we need to avoid the discrimination problem when we find the best cutoff point for Black vs White AIR. Therefore, it is designed to lessen the discrimination problem. 
 
 * **Intended use:**   The intended user for our group best remediated model would be student, professor, researchers and other data scientists who need a specific sample to make certain conclusions.  
 
-* **Additional use of model:** This model can't be used in other situations. The housing market is very different after covid pandemic vs. before.
+* **Additional use of model:** This model can't be used in other situations as the model doesn't take unexpected global or social economical events into consideration.
 
 ***
 ## Training data
@@ -54,7 +54,7 @@ Last updated: June 2021
 
 * **Number of rows in test dataset:** Test data contains 19831 rows and 22 columns
 
-* **Differences in columns between training and test dataset:** Test dataset contains 1 more column ‘high_priced’ than the training dataset. ‘high_priced’ is the binary target variable in the training dataset
+* **Differences in columns between training and test dataset:** Training dataset contains 1 more column ‘high_priced’ than the test dataset. ‘high_priced’ is the binary target variable in the training dataset
 
 ***
 ## Model details
@@ -89,7 +89,7 @@ Last updated: June 2021
 ## Quantitative analysis
 * **Metrics to evaluate model:** Our group decided to use AUC to evaluate our model. After we run through the stress testing, residual analysis, and remove the outlier. we find the best AUC would be 0.7953. 
 
-* **Values for training, validation and evaluvation data:**
+* **Values for training, validation and evaluation data:**
 	* Training AUC: 0.7917
 	* Validation AUC: 0.7953
 	* Evaluation results submitted as group2: [EBM evaluation results](https://nbviewer.jupyter.org/github/jphall663/GWU_rml/blob/master/assignments/eval.ipynb)
@@ -98,18 +98,18 @@ Last updated: June 2021
 
 * **Model Plots**
 	
-   **Assingment 1**
+   **Assignment 1**
    
    *Variable Importance Plot*
 
 ![Mean Absolute Score for variable importance](img/Graph_1.png)
 	<sub><sup>**Source:** [Assignment 1](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/main/Assignment%201%20_%20Group%202/A_01(code).ipynb)</sup></sub>
 	
-   **Assingment 2**
+   **Assignment 2**
    
    *Global Feature Importance Plot*
 	
-![Global Feature Importance for all models evaluatede](img/graph_2.png)
+![Global Feature Importance for all models evaluated](img/graph_2.png)
 	<sub><sup>**Source:** [Assignment 2](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cfb1ed9c4e408b36aacca309351c40c1c15fa63b/Assignment%202/A_02.ipynb)</sup></sub>
 
    *Local Feature Importance Plot*
@@ -122,14 +122,14 @@ Last updated: June 2021
 ![Partial Dependence Plot for all models evaluated](img/graph_2.2..png)
 	<sub><sup>**Source:** [Assignment 2](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cfb1ed9c4e408b36aacca309351c40c1c15fa63b/Assignment%202/A_02.ipynb)</sup></sub>
 
-   **Assingment 3**
+   **Assignment 3**
 
    *Adverse Impact Ratio vs AUC for EBMs*
 
 ![Fairness evaluation](img/graph_3.png)
 	<sub><sup>**Source:** [Assignment 3](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cca2edeed1580a4153da801f7e98d65585fe54f7/Assignment%203/Group_2_Responsible_ML_Assignment%203.ipynb)</sup></sub>
 
-   **Assingment 4**
+   **Assignment 4**
    
    *Simulate blackbox attack*
 	
@@ -141,7 +141,7 @@ Last updated: June 2021
    *Stress Testing of Model*
    
 ![Simulate recession in economy to evaluate model performance](img/graph_5.png)
-	<sub><sup>**Source:** [Assignmen 5](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cca2edeed1580a4153da801f7e98d65585fe54f7/Assignment%205/A_05.ipynb)</sup></sub>
+	<sub><sup>**Source:** [Assignment 5](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cca2edeed1580a4153da801f7e98d65585fe54f7/Assignment%205/A_05.ipynb)</sup></sub>
 
 
 * **Alternative models considered:** The team considered Elastic Net and Monotonic XGBoosting Models; however, our remediated EBM model out performed both. 
