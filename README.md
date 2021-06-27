@@ -96,12 +96,13 @@ Last updated: June 2021
 
 	
 
-
-* Provide at least one plot or table from each weekly assignment for a total of at least six plots, that must include the global variable importance and partial dependence of your group's best remediated model.
+* **Model Plots**
 	
-**Assingment 1**
-![Assignment_1 image](img/Graph_1.png)
-<sub><sup>**Source:** [Assignment 1](Assignment 1 _ Group 2/A_01(code).ipynb)</sup></sub>
+	**Assingment 1**
+	*Variable Importance Plot*
+
+![Mean Absolute Score for variable importance](img/Graph_1.png)
+	<sub><sup>**Source:** [Assignment 1](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/main/Assignment%201%20_%20Group%202/A_01(code).ipynb)</sup></sub>
 	
 **Assingment 2**
 	
