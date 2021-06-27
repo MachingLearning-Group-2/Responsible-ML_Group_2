@@ -140,7 +140,7 @@ Last updated: June 2021
    
    *Stress Testing of Model*
    
-![Simulate recession in economy to evaluate model performance](img/Graph_5.png)
+![Simulate recession in economy to evaluate model performance](img/graph_5.png)
 	<sub><sup>**Source:** [Assignmen 5](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cca2edeed1580a4153da801f7e98d65585fe54f7/Assignment%205/A_05.ipynb)</sup></sub>
 
 
