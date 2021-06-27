@@ -99,6 +99,7 @@ Last updated: June 2021
 * **Model Plots**
 	
    **Assingment 1**
+   
    *Variable Importance Plot*
 
 ![Mean Absolute Score for variable importance](img/Graph_1.png)
@@ -123,30 +124,35 @@ Last updated: June 2021
 
    **Assingment 3**
 
+   *Adverse Impact Ratio vs AUC for EBMs*
 
+![Fairness evaluation](img/Graph_3.png)
+	<sub><sup>**Source:** [Assignment 3](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cca2edeed1580a4153da801f7e98d65585fe54f7/Assignment%203/Group_2_Responsible_ML_Assignment%203.ipynb)</sup></sub>
 
-![Assignment_3 image](img/graph_3.png)	
-
-**Assingment 4**
+   **Assingment 4**
+   
+   *Simulate blackbox attack*
 	
-![A white-hat model extraction attack: Stolen Model](img/graph_4.png)
+![Visual of stolen model from potential attackers](img/graph_4.png)
+	<sub><sup>**Source:** [Assignment 4](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cca2edeed1580a4153da801f7e98d65585fe54f7/Assignment%204/Group2_Responsible_ML_Assignment_4.ipynb)</sup></sub>	
 
-![Adversarial examples seeds rows of Stolen Model](img/graph_4.1.png)
+   **Assignment 5**
+   
+   *Stress Testing of Model*
+   
+![Simulate recession in economy to evaluate model performance](img/Graph_5.png)
+	<sub><sup>**Source:** [Assignmen 5](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cca2edeed1580a4153da801f7e98d65585fe54f7/Assignment%205/A_05.ipynb)</sup></sub>
 
-**Assignment 5**
 
-![Stress Testing](img/graph_5.png)
-
-**Address other alternative models considered**
+* **Alternative models considered:** The team considered Elastic Net and Monotonic XGBoosting Models; however, our remediated EBM model out performed both. 
 	
-  * Elastic Net
+   *Monotonic XGBoosting AUC: 0.7928*
 	
 ![Evaluation Metrics of Elastic Net Model](img/graph__6.png)
 
 ![Variable Importances of Elastic Net Model](img/graph_7.png)
 
 
-  * Monotonic XGBoost: AUC: 0.7928
 
 ***
 ## Ethical considerations
