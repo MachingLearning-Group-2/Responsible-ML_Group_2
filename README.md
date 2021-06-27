@@ -110,9 +110,14 @@ Last updated: June 2021
 ![Global Feature Importance for all models evaluatede](img/graph_2.png)
 	<sub><sup>**Source:** [Assignment 2](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cfb1ed9c4e408b36aacca309351c40c1c15fa63b/Assignment%202/A_02.ipynb)</sup></sub>
 
-![Local Feature Importance](img/graph_2.1.png)
+   *Local Feature Importance Plot*
+   
+![Local Feature Importance for all models evaluated](img/graph_2.1.png)
+	<sub><sup>**Source:** [Assignment 2](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cfb1ed9c4e408b36aacca309351c40c1c15fa63b/Assignment%202/A_02.ipynb)</sup></sub>
 
-![Partial Dependence](img/graph_2.2..png)
+   *Partial Dependence Plot*
+![Partial Dependence Plot for all models evaluated](img/graph_2.2..png)
+	<sub><sup>**Source:** [Assignment 2](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cfb1ed9c4e408b36aacca309351c40c1c15fa63b/Assignment%202/A_02.ipynb)</sup></sub>
 
 **Assingment 3**<p>
 
