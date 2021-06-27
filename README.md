@@ -98,8 +98,8 @@ Last updated: June 2021
 
 * **Model Plots**
 	
-	**Assingment 1**
-	*Variable Importance Plot*
+   **Assingment 1**
+   *Variable Importance Plot*
 
 ![Mean Absolute Score for variable importance](img/Graph_1.png)
 	<sub><sup>**Source:** [Assignment 1](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/main/Assignment%201%20_%20Group%202/A_01(code).ipynb)</sup></sub>
