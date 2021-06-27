@@ -104,8 +104,8 @@ Last updated: June 2021
 ![Mean Absolute Score for variable importance](img/Graph_1.png)
 	<sub><sup>**Source:** [Assignment 1](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/main/Assignment%201%20_%20Group%202/A_01(code).ipynb)</sup></sub>
 	
-	**Assingment 2**
-	*Global Feature Importance Plot*
+   **Assingment 2**
+   *Global Feature Importance Plot*
 	
 ![Global Feature Importance for all models evaluatede](img/graph_2.png)
 	<sub><sup>**Source:** [Assignment 2](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/cfb1ed9c4e408b36aacca309351c40c1c15fa63b/Assignment%202/A_02.ipynb)</sup></sub>
