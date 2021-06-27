@@ -147,12 +147,11 @@ Last updated: June 2021
 * **Alternative models considered:** The team considered Elastic Net and Monotonic XGBoosting Models; however, our remediated EBM model out performed both. 
 	
    *Monotonic XGBoosting AUC: 0.7928*
+   
+   *Elastic Net Results*
 	
-![Evaluation Metrics of Elastic Net Model](img/graph__6.png)
-
-![Variable Importances of Elastic Net Model](img/graph_7.png)
-
-
+![Partial Dependence Plot for all models evaluated](img/graph_7.png)
+	<sub><sup>**Source:** [Assignment 1](https://github.com/MachingLearning-Group-2/Responsible-ML_Group_2/blob/9ea2817024d255e2f7a5d560544e1e2830c62b5a/Assignment%201%20_%20Group%202/A_01(code).ipynb)</sup></sub>
 
 ***
 ## Ethical considerations
